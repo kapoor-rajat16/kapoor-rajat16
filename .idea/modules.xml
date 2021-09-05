@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CF contests/CF contests.iml" filepath="$PROJECT_DIR$/CF contests/CF contests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Competitive Coding Problems/Competitive Coding Problems.iml" filepath="$PROJECT_DIR$/Competitive Coding Problems/Competitive Coding Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Competitive Coding Problems/GFG/GFG.iml" filepath="$PROJECT_DIR$/Competitive Coding Problems/GFG/GFG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mission Google KICK START.iml" filepath="$PROJECT_DIR$/Mission Google KICK START.iml" />
+    </modules>
+  </component>
+</project>
